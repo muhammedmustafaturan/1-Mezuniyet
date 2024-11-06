@@ -10,9 +10,9 @@
       
   ## LİNKLER
   * BeatifulSoup4 sitesi = "https://pypi.org/project/beautifulsoup4/"  
-  *BeatifulSoup kurulumu = "pip install beautifulsoup4"  
-  *Return nasıl kullanılır = "https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama/blob/master/Fonksiyonlar/Fonksiyonlarda%20Return.ipynb"  
-  *Return nasıl oluşturulur = "import return"
+  * BeatifulSoup kurulumu = "pip install beautifulsoup4"  
+  * Return nasıl kullanılır = "https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama/blob/master/Fonksiyonlar/Fonksiyonlarda%20Return.ipynb"  
+  * Return nasıl oluşturulur = "import return"
   
  
   
