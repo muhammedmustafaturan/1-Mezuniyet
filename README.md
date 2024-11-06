@@ -2,7 +2,7 @@
 
 
 ## Bu proje; 
-  iklim değişikliği ile alakalıdır,
+  İklim değişikliği ile alakalıdır,
   Python ile yazılmıştır,
   Ayrıca WEB Kazımada kullanılmıştır,
   24 saat yardıma koşan bot kullanılmaktadır. 
