@@ -9,7 +9,7 @@
   BeatifulSoup4 ve return kütüphanesi kullanılmıştır. 
       
   ## LİNKLER
-  *BeatifulSoup4 sitesi = "https://pypi.org/project/beautifulsoup4/"
+  *BeatifulSoup4 sitesi = "https://pypi.org/project/beautifulsoup4/"  
   *BeatifulSoup kurulumu = "pip install beautifulsoup4"
   
  
